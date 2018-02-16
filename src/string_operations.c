@@ -18,6 +18,7 @@ char *my_strcpy(char *t, char *s)
 int main(void)
 {
    int i;
+   char p1[32];
    char *s[] =
    {
       "Git tutorials",
