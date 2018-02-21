@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <wchar.h>
 
+
 /* wide charcter function */
+
 size_t my_strlen(const wchar_t *s)
 {
 const wchar_t *p = s;
